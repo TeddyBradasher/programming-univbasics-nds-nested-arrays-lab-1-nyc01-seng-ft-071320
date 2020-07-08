@@ -34,8 +34,15 @@ def sorted_matrix
 end
 
 def matrix_lookup(matrix, row, column)
+<<<<<<< HEAD
     
   matrix[row][column]
+=======
+  ORGANIC_PRODUCE[3]
+  CONVENTIONAL_PRODUCE[1]
+  
+  
+>>>>>>> 76e14be90af21e5d591448c251b216921647b4ec
   
   # Given any matrix (array of arrays), a row index and a column index, 
   # Return the matrix's content at that row and and column
